@@ -399,8 +399,11 @@ body {
     width: 100%;
   }
 }
-.portfolio-small img {
+.portfolio-small a {
   width: 48%;
+}
+.portfolio-small img {
+  width: 100%;
   height: auto;
   margin-bottom: 1em;
 }
